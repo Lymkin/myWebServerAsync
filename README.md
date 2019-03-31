@@ -1,7 +1,7 @@
 # myWebServerAsync
 myWebServerAsync library for ESP8266/NodeMCU Arduino IDE.  
 
-This is a redesign of of project:  https://github.com/nailbuster/myWebServerAsync
+This is a redesign of project:  https://github.com/nailbuster/myWebServerAsync
 
 Changes from the original:
 
