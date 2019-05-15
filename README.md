@@ -12,8 +12,6 @@ Changes from the original:
 
 This server uses the Async WEB/TCP library so that it can handle requests quickly and non-blocking.  It also includes jquery/bootstrap/css/fontawesome within the library so they are available when booted up.
 
-You can try and flash the bin file to your esp8266 to sample the webserver....
-
 Uses Arduino IDE,  ensure latest esp8266 from:  https://github.com/esp8266/Arduino  
 
 Library requires the use of the following 3rd party libraries to be installed:
